@@ -18,7 +18,10 @@ public class Principal {
 		
 		Autos autos = null;
 		LogicaMetodos impl = new LogicaMetodos();
-		
+		//modificando mi proyecto oara guardar cambios en github
+		System.out.println("Estoy modificando mi proyecto ");
+		int edad = 25;
+		System.out.println("Mi edad es: " + edad);
 		
 		//Menu principal
 		do {
